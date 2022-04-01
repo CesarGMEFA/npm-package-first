@@ -14,7 +14,15 @@
   "author": "Cesar Mejias <cesarfar376@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarGMEFA/npm-package-first.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CesarGMEFA/npm-package-first/issues"
+  },
+  "homepage": "https://github.com/CesarGMEFA/npm-package-first#readme"
 }
