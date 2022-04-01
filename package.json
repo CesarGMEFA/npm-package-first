@@ -1,6 +1,6 @@
 {
   "name": "crearpaquete",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Paquete que dara un nombre ramdon",
   "main": "src/index.js",
   "scripts": {
