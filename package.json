@@ -1,5 +1,5 @@
 {
-  "name": "crearpaquete",
+  "name": "ramdon-name",
   "version": "1.0.2",
   "description": "Paquete que dara un nombre ramdon",
   "main": "src/index.js",
